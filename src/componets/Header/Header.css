@@ -1,0 +1,17 @@
+
+.header-style{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   color: black;
+}
+
+
+.header-style a{
+   padding: 20px;
+   text-decoration: none;
+   
+}
+.header-style a:hover{
+   color: green;
+}
