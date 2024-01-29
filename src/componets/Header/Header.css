@@ -3,15 +3,18 @@
    display: flex;
    text-align: center;
    justify-content: center;
-   color: black;
+   width: 100%;
+   background-color: gray;
 }
 
 
 .header-style a{
    padding: 20px;
    text-decoration: none;
+   color: rgb(245, 239, 245);
    
 }
 .header-style a:hover{
    color: green;
+   font-size: 15px;
 }
