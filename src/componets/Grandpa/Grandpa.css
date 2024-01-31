@@ -1,0 +1,22 @@
+.box-style{
+    text-align: center;
+    
+}
+.box-style div{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid gray;
+    
+    
+
+}
+
+.flex{
+    display: flex;
+}
+
+
+
